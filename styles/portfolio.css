@@ -193,6 +193,10 @@ footer .social-links a:hover {
     padding: 0;
   }
 
+  .my-photo {
+    margin: 0;
+  }
+
   .project-description {
     padding: 0;
     text-align: center;
